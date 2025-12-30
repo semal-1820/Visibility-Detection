@@ -64,17 +64,18 @@ https://visibility-detection.onrender.com/
 _Add screenshots of system output here._
 
 ## Technology Stack
-Frontend: HTML, CSS, JavaScript
-Backend: FastAPI (Python)
-Computer Vision: OpenCV
-Object Detection: YOLO (Ultralytics)
-Deployment: Netlify (Frontend), Render (Backend)
+- Frontend: HTML, CSS, JavaScript
+- Backend: FastAPI (Python)
+- Computer Vision: OpenCV
+- Object Detection: YOLO (Ultralytics)
+- Deployment: Netlify (Frontend), Render (Backend)
+
 
 ## MVP Scope
-Video-based (uploaded clips, not live feed)
-Short-duration videos for demo purposes
-Real-time alert visualization during playback
-Designed for hackathon and prototype demonstration
+- Video-based (uploaded clips, not live feed)
+- Short-duration videos for demo purposes
+- Real-time alert visualization during playback
+- Designed for hackathon and prototype demonstration
 
 ## Disclaimer
 This project is a prototype built for hackathon and research demonstration purposes only and is not intended for clinical or medical use.
