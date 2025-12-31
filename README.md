@@ -61,11 +61,11 @@ https://visibility-detection.onrender.com/
 > Backend processing is optimized for **short demo videos** due to compute limitations on free-tier hosting.
 
 ## Screenshots
-## Screenshots
 
-!(ss/Screenshot%202025-12-31%20112133.png)
-!(ss/Screenshot%202025-12-31%20112142.png)
-!(ss/Screenshot%202025-12-31%20112424.png)
+![Screenshot 1](ss/Screenshot%202025-12-31%20112133.png)
+![Screenshot 2](ss/Screenshot%202025-12-31%20112142.png)
+![Screenshot 3](ss/Screenshot%202025-12-31%20112424.png)
+
 
 
 ## Technology Stack
