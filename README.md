@@ -60,14 +60,9 @@ https://visibility-detection.onrender.com/
 
 > Backend processing is optimized for **short demo videos** due to compute limitations on free-tier hosting.
 
-## Screenshots
+## Output  Screenshot
 
-![Screenshot 1](https://github.com/semal-1820/Visibility-Detection/raw/main/screenshots/Screenshot%202025-12-31%20112133.png)
-
-![Screenshot 2](./screenshots/Screenshot 2025-12-31 112142.png)
-
-![Screenshot 3](./screenshots/Screenshot 2025-12-31 112424.png)
-
+![outputScreenshot](https://github.com/semal-1820/Visibility-Detection/raw/main/screenshots/Screenshot%202025-12-31%20112133.png)
 
 
 ## Technology Stack
