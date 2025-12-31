@@ -62,7 +62,7 @@ https://visibility-detection.onrender.com/
 
 ## Output  Screenshot
 
-![outputScreenshot](https://github.com/semal-1820/Visibility-Detection/raw/main/screenshots/Screenshot%202025-12-31%20112133.png)
+![outputScreenshot](https://github.com/semal-1820/Visibility-Detection/raw/main/screenshots/Screenshot%202025-12-31%20154142.png)
 
 
 ## Technology Stack
